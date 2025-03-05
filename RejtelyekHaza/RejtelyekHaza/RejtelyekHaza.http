@@ -1,0 +1,6 @@
+@RejtelyekHaza_HostAddress = http://localhost:5174
+
+GET {{RejtelyekHaza_HostAddress}}
+Accept: application/json
+
+###
