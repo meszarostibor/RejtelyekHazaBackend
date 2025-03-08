@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\classes\\tokenholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\classes\\tokenholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\classes\\customtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\classes\\tokenholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\classes\\tokenholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|d:\\suli\\projektmunka\\rejtelyekhazabackend\\rejtelyekhaza\\rejtelyekhaza\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69923ADD-6DF8-4425-8DC4-E09141791A54}|RejtelyekHaza\\RejtelyekHaza.csproj|solutionrelative:rejtelyekhaza\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,56 +50,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "RejtelyekHaza\\Controllers\\LogoutController.cs",
+              "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "RejtelyekHaza\\Controllers\\LogoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:44:43.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoggedInUserDTO.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\DTOs\\LoggedInUserDTO.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\DTOs\\LoggedInUserDTO.cs",
               "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\DTOs\\LoggedInUserDTO.cs",
               "RelativeToolTip": "RejtelyekHaza\\DTOs\\LoggedInUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T19:06:11.254Z"
+              "WhenOpened": "2025-03-02T19:06:11.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TokenHolder.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Classes\\TokenHolder.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\Classes\\TokenHolder.cs",
               "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Classes\\TokenHolder.cs",
               "RelativeToolTip": "RejtelyekHaza\\Classes\\TokenHolder.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwFYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T17:42:52.085Z"
+              "WhenOpened": "2025-03-02T17:42:52.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CustomToken.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Classes\\CustomToken.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\Classes\\CustomToken.cs",
               "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Classes\\CustomToken.cs",
               "RelativeToolTip": "RejtelyekHaza\\Classes\\CustomToken.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T17:42:50.917Z"
+              "WhenOpened": "2025-03-02T17:42:50.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Controllers\\LoginController.cs",
               "RelativeToolTip": "RejtelyekHaza\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T07:17:50.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Models\\User.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\Models\\User.cs",
@@ -103,31 +123,34 @@
               "RelativeToolTip": "RejtelyekHaza\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T07:16:35.724Z"
+              "WhenOpened": "2025-03-02T07:16:35.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\DTOs\\LoginDTO.cs",
               "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\DTOs\\LoginDTO.cs",
               "RelativeToolTip": "RejtelyekHaza\\DTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T07:16:11.494Z"
+              "WhenOpened": "2025-03-02T07:16:11.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Program.cs",
               "RelativeDocumentMoniker": "RejtelyekHaza\\Program.cs",
               "ToolTip": "D:\\SULI\\Projektmunka\\RejtelyekHazaBackend\\RejtelyekHaza\\RejtelyekHaza\\Program.cs",
               "RelativeToolTip": "RejtelyekHaza\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T07:08:13.144Z"
+              "WhenOpened": "2025-03-02T07:08:13.144Z",
+              "EditorCaption": ""
             }
           ]
         }

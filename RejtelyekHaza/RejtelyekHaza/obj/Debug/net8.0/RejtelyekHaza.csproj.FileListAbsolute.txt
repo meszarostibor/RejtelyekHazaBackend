@@ -128,3 +128,4 @@ D:\SULI\Projektmunka\RejtelyekHazaBackend\RejtelyekHaza\RejtelyekHaza\obj\Debug\
 D:\SULI\Projektmunka\RejtelyekHazaBackend\RejtelyekHaza\RejtelyekHaza\obj\Debug\net8.0\RejtelyekHaza.pdb
 D:\SULI\Projektmunka\RejtelyekHazaBackend\RejtelyekHaza\RejtelyekHaza\obj\Debug\net8.0\RejtelyekHaza.genruntimeconfig.cache
 D:\SULI\Projektmunka\RejtelyekHazaBackend\RejtelyekHaza\RejtelyekHaza\obj\Debug\net8.0\ref\RejtelyekHaza.dll
+D:\SULI\Projektmunka\RejtelyekHazaBackend\RejtelyekHaza\RejtelyekHaza\obj\Debug\net8.0\RejtelyekHaza.sourcelink.json

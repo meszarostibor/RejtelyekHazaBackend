@@ -55,7 +55,28 @@ public class TokenHolder
     {
         return tokens[0].LoggedInUser.Token;
     }
-    
+
+    public string GetUserToken(string userName)
+    {
+        int index = -1;
+        for (int i = 0; i < tokens.Count; i++)
+        {
+            if (tokens[i].LoggedInUser.UserName.ToString() == userName)
+            {
+                index = i; break;
+            }
+        }
+        if (index != -1)
+        {
+            return tokens[index].LoggedInUser.Token.ToString();
+        }
+        else 
+        {
+            return "";
+        }
+    }
+
+
     public void DecreaseExpirationTime()
     {
         if (tokens.Count > 0)
@@ -84,6 +105,7 @@ public class TokenHolder
         newLoggedInUser.Permission=loggedInUser.Permission;
         newLoggedInUser.PhoneNumber=loggedInUser.PhoneNumber;   
         tokens.Add(new CustomToken(expirationTime, newLoggedInUser));
+       // newLoggedInUser.Token = GetUserToken(loggedInUser.UserName);
         return newLoggedInUser;   
     }
 
@@ -132,6 +154,22 @@ public class TokenHolder
         else
         {
             return new CustomToken(new Guid(),-1,new LoggedInUserDTO());
+        }
+    }
+
+    public void Logout(string userName) 
+    {
+        int index = -1;
+        for (int i = 0; i < tokens.Count; i++)
+        {
+            if (tokens[i].LoggedInUser.UserName.ToString() == userName)
+            {
+                index = i; break;
+            }
+        }
+        if (index != -1)
+        {
+            tokens.RemoveAt(index);
         }
     }
 

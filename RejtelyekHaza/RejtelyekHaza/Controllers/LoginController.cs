@@ -34,12 +34,12 @@ public class LoginController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> Login(LoginDTO loginDTO)
     {
-        using (var cx = new ProjecttestContext())
+        using (var context = new ProjecttestContext())
         {
             try
             {
                 string Hash = Program.CreateSHA256(loginDTO.TmpHash);
-                User? loginUser = await cx.Users.FirstOrDefaultAsync(f => f.UserName == loginDTO.LoginName && f.Hash == Hash);
+                User? loginUser = await context.Users.FirstOrDefaultAsync(f => f.UserName == loginDTO.LoginName && f.Hash == Hash);
                 if (loginUser != null)
                 {
                     return Ok(Program.loggedInUsers.GenerateToken(3600, loginUser));
@@ -55,7 +55,6 @@ public class LoginController : ControllerBase
             }
         }
     }
-
 }
 
 /*

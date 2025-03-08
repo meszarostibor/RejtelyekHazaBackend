@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RejtelyekHaza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+854712f3b40c2eb38e80d80796c09ca32035439e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5dbdafd15b4a65b5f0b5dea16297f7b88eaa28")]
 [assembly: System.Reflection.AssemblyProductAttribute("RejtelyekHaza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RejtelyekHaza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
